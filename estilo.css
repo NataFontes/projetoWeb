@@ -1,0 +1,237 @@
+body{
+    background-color:snow;
+    margin:0%;
+}
+
+
+#pginicial{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:center;    
+}
+#volta{
+  background-color:rgba(87, 86, 83, 0.611);
+  width:100%;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+ul.navbar {
+  list-style-type:none;
+  margin:auto;
+  padding:1%;
+  overflow:hidden;
+  width:50%;
+}
+li.item-nav {
+    float:left;
+    margin:auto;
+    padding-right:1%;
+    padding-left:1%;
+}
+#logoloja{
+    height:190px;
+    width:190px;
+}
+#search{
+    display:flex;
+    flex-direction:row;
+    margin-left:4%;
+}
+input{
+    width:400px;
+    height:35px;
+    font-size:15px;
+    padding-left:5%;
+}
+button{
+    height:40px;
+    width:40px;
+}
+.material-icons{
+    color:black;
+}
+#icones{
+    display:flex;
+}
+.icons1e2:hover{
+    background-color:white;
+}
+li.item-nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5% 10px;
+  text-decoration:none;
+}
+#borda2{
+    height:50px;
+    width:100%;
+    background-color:rgba(87, 86, 83, 0.412);
+}
+#borda3{
+    height:30px;
+    width:100%;
+    background-color:rgba(87, 86, 83, 0.145);
+}
+
+
+#friday{
+    width:49%;
+    height:10%;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    margin-top:2%;
+    padding:1%;
+    background-color:black;
+}
+#linkfriday{
+    text-decoration:none;
+    font-size:30px;
+    color:yellow;  
+}
+
+
+#centro{
+   width:100%;
+   height:100%;
+   flex-wrap:wrap;
+   align-items:center;
+   justify-content:center;
+   padding-top:1%;
+   padding-bottom:2%;
+   padding-left:23%;
+}
+#linhap1{
+    display:flex;
+    flex-direction:row;
+}
+#linhap2{
+    display:flex;
+    flex-direction:row;
+}
+#linhap3{
+    display:flex;
+    flex-direction:row;
+}
+#linhap4{
+    display:flex;
+    flex-direction:row;
+}
+.produtos{
+    margin:2%;
+    text-align: center;
+    height:19%;
+    width:19%;
+}
+img{
+    height:100%;
+    width:100%;
+}
+.links{
+    text-decoration:none;
+    text-align:center;
+    font-size:135%;
+    color:black;
+}
+.preco{
+    margin:2%;
+    font-size:30px;
+}
+.botoesdecompra{
+    height:35px;
+    width:100%;
+    font-size:20px;
+    background-color:#cac1c0;
+    color:black;
+}
+#proximapg{
+    padding-right:31%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.botaopgs{
+    background-color:snow;
+    font-size:17px;
+}
+.botaogpgs{
+    background-color:snow;
+    width:100px;
+    font-size:17px;
+}
+
+
+#rodape{
+    display:flex;
+    background-color:rgba(87, 86, 83, 0.611);
+    flex-direction:column;
+    padding:1%;
+    padding-bottom:0%;
+    padding-top:0%;
+}
+#rodapecima{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:1%;
+    align-items:center;
+    justify-content: center;  
+}
+#h1rodape{
+    text-align:center;
+    font-size:15px;
+}
+#menurodape{
+    display:flex;
+    flex-direction:row;
+    width:80%;
+}
+.linksrodape{
+    font-size:18px;
+    text-decoration:none;
+    text-align:center;
+    color:black;
+    margin:auto;
+}
+.linksrodape:hover{
+    background-color:white;
+}
+#rodapebaixo{
+    display:flex;
+    flex-direction:row;
+    border-width:medium;
+    border-top-style:solid;
+    border-color:black;
+}
+#logosrodape{
+    display:flex;
+    flex-direction: column;
+    margin-right:2%;
+    margin-left:58%;
+    margin-top:1%;
+}
+#plogo{
+    margin:0%;
+    font-size:15px;
+    text-align:center;
+}
+#redesocial{
+    margin:0%;
+}
+.logosrodape{
+    height:30px;
+    width:30px;
+}
+#bannerdorodape{
+    margin-top:1%;
+}
+#bannerrodape{
+    height:80px;
+    width:190px;
+}

@@ -1,0 +1,218 @@
+body{
+    margin:0%;
+    background-color:snow;
+}
+
+
+
+#volta{
+  background-color:rgb(145, 143, 138);
+  width:100%;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+ul.navbar {
+  list-style-type:none;
+  margin:auto;
+  padding:1%;
+  overflow:hidden;
+  width:50%;
+}
+li.item-nav {
+    float:left;
+    margin:auto;
+    padding-right:1%;
+    padding-left:1%;
+}
+#logoloja{
+    height:80px;
+    width:190px;
+}
+#search{
+    display:flex;
+    flex-direction:row;
+    margin-left:4%;
+}
+input{
+    width:400px;
+    height:35px;
+    font-size:15px;
+    padding-left:5%;
+}
+.material-icons{
+    color:black;
+}
+#icones{
+    display:flex;
+}
+.icons1e2:hover{
+    background-color:white;
+}
+li.item-nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5% 10px;
+  text-decoration:none;
+}
+#borda2{
+    height:50px;
+    width:100%;
+    background-color:rgba(87, 86, 83, 0.412);
+}
+#borda3{
+    height:30px;
+    width:100%;
+    background-color:rgba(87, 86, 83, 0.145);
+}
+
+
+#botaocomprar{
+    height:40px;
+    width:120px;
+}
+#pai{
+    align-items:center;
+    justify-content: center;
+    display:flex;
+    flex-wrap:wrap;
+}
+#ladoimg{
+    width:20%;
+    margin-right:2%; 
+}
+img{
+    height:100%;
+    width:100%;
+}
+#ladotexto{
+    padding:2%;
+    width:400px;
+}
+.txt{
+    text-align:left;
+    color: grey;
+}
+h1{
+    text-align:center;
+}
+.preço{
+    font-size: 30px;
+    font-weight: bold;
+}
+button{
+    font-size: 25px;
+}
+.comprar{
+    text-align: center;
+    line-height: 0px;
+}
+a{
+    text-align:left;
+    color:black;
+    text-decoration:none;
+    font-size: 18px;
+}
+
+#mae{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:1%;
+}
+#baixo{
+    display:flex;
+    flex-direction:row;
+    width:42%;
+    margin-top:3%;
+}
+#a{
+    width:50%;
+}
+#b{
+    width:300px;
+    margin-right:5%;
+}
+#c{
+    width:300px;
+    margin-right:5%;
+}
+#d{
+    width:100px;
+}
+.psobre{
+    font-size:20px;
+}
+li{
+    font-size:20px;
+}
+
+
+#rodape{
+    display:flex;
+    background-color:rgb(145, 143, 138);
+    flex-direction:column;
+    padding:1%;
+    padding-bottom:0%;
+    padding-top:0%;
+}
+#rodapecima{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:1%;
+    align-items:center;
+    justify-content: center;  
+}
+#h1rodape{
+    text-align:center;
+    font-size:15px;
+}
+#menurodape{
+    display:flex;
+    flex-direction:row;
+    width:80%;
+}
+.linksrodape{
+    font-size:18px;
+    text-decoration:none;
+    text-align:center;
+    color:black;
+    margin:auto;
+}
+#rodapebaixo{
+    display:flex;
+    flex-direction:row;
+    border-width:medium;
+    border-top-style:solid;
+    border-color:black;
+}
+#logosrodape{
+    display:flex;
+    flex-direction: column;
+    margin-right:2%;
+    margin-left:58%;
+    margin-top:1%;
+}
+#plogo{
+    margin:0%;
+    font-size:15px;
+    text-align:center;
+}
+#redesocial{
+    margin:0%;
+}
+.logosrodape{
+    height:30px;
+    width:30px;
+}
+#bannerdorodape{
+    margin-top:1%;
+}
+#bannerrodape{
+    height:80px;
+    width:190px;
+}
